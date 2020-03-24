@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">SmartMoblie</string>
-    <string name="greeting">practice</string>
+    <string name="greeting">HelloWorld?</string>
 </resources>
